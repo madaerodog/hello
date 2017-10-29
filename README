@@ -1,1 +1,17 @@
-Hello, and welcome to my playground for testing the git functionality! There are many files that are named common dictionary names, and each of them is used to test git functionality.
+Hello, and welcome to my playground for testing the git functionality!
+
+If you are new to Git you should start your journey by understanding what a repository is and how to create one by following this guieds 
+
+https://guides.github.com/activities/hello-world/
+https://help.github.com/articles/set-up-git/
+https://help.github.com/articles/create-a-repo/
+
+Now that you know how to create a repository it is important to see how can you contribute to other developers repositories.
+
+So I made this repository in my early days https://github.com/madaerodog/hello and you have to contribute with a file to it.
+
+Read this resource on how to do that https://help.github.com/articles/fork-a-repo
+
+You will use your own account to fork his repository, add a file with your username in small caps from here and in it put a message for me (be careful it is a public message :).
+
+Submit a pull request to send the file to my repository to finish the challenge.
